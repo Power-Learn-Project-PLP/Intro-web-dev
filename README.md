@@ -5,11 +5,9 @@ This project demonstrates a basic HTML5 webpage structure with essential element
 
 ## File Structure
 
-```
 project/
 │── index.html    # Main HTML file
 │── README.md     # Project documentation
-```
 
 ## Features
 
